@@ -86,42 +86,42 @@
                 <div class="products">
                     <div class="section_suits">
                         <a href="shop1.php"><img src="img/pak1.jpg" class="producten"></a>
-                        <h3 id="h3">Nike Sock Dart Premium</h3>
+                        <h3 id="h3">Thom Browne Premium</h3>
                         <p></p>
-                        <span>€89,99</span>
+                        <span>€229,99</span>
                     </div>
                         <div class="section_suits">
                             <a href="shop1.php"><img src="img/pak2.jpg" class="producten"></a>
-                            <h3 id="h3">Nike Sock Dart Premium</h3>
+                            <h3 id="h3">Hugo Boss</h3>
                             <p></p>
-                            <span>€89,99</span>
+                            <span>€389,99</span>
                         </div>
 
                             <div class="section_suits">
                                 <a href="shop1.php"><img src="img/pak3.webp" class="producten"></a>
-                                <h3 id="h3">Nike Sock Dart Premium</h3>
+                                <h3 id="h3">Suit Supply</h3>
                                 <p></p>
-                                <span>€89,99</span>
+                                <span>€189,99</span>
                             </div>
 
                                 <div class="section_suits">
                                     <a href="shop1.php"><img src="img/20.webp" class="producten"></a>
-                                    <h3 id="h3">Nike Sock Dart Premium</h3>
+                                    <h3 id="h3">Zakelijk pak</h3>
                                     <p></p>
-                                    <span>€89,99</span>
+                                    <span>€289,99</span>
                                 </div>
 
                                     <div class="section_suits">
                                         <a href="shop1.php"><img src="img/pak7.webp" class="producten"></a>
-                                        <h3 id="h3">Nike Sock Dart Premium</h3>
+                                        <h3 id="h3">Professionele pak</h3>
                                         <p></p>
-                                        <span>€89,99</span>
+                                        <span>€339,99</span>
                                     </div>
                                             <div class="section_suits">
                                                 <a href="shop1.php"><img src="img/pak6.webp" class="producten"></a>
-                                                <h3 id="h3">Nike Sock Dart Premium</h3>
+                                                <h3 id="h3">Old School pak</h3>
                                                 <p></p>
-                                                <span>€89,99</span>
+                                                <span>€589,99</span>
                                             </div>
                                                         <div class="section_suits">
                                                             <a href="shop1.php"><img src="img/pak5.webp" class="producten"></a>
@@ -253,12 +253,7 @@
                                                                                                     <p></p>
                                                                                                     <span>€89,99</span>
                                                                                                 </div>
-                                                                                                <div class="section_suits">
-                                                                                                        <a href="shop1.php"><img src="img/28.webp" class="producten"></a>
-                                                                                                        <h3 id="h3">Nike Sock Dart Premium</h3>
-                                                                                                        <p></p>
-                                                                                                        <span>€89,99</span>
-                                                                                                    </div>
+                                                                                            
 
                 </div>    
             </main>

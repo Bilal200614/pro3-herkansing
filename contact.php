@@ -23,7 +23,9 @@
           <input type="text" class="field" name="telefoonnummer" id="telefoonnummer" placeholder="Telefoonnummer">
           <input type="text" class="field" name="onderwerp" id="onderwerp" placeholder="Onderwerp">
           <textarea name="bericht" id="bericht" placeholder="Uw bericht" class="field"></textarea>
-          <input type="submit" class="contactbtn" name="knop" id="knop"></input><?php alert();?>
+          <input type="submit" class="contactbtn" name="knop" id="knop"></input>
+          <form action="" method="POST">
+
     </div>
   </div>
 </div>
